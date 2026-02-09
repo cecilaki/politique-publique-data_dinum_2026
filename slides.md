@@ -13,7 +13,14 @@ date: "9 février 2026"
 
 ## Pourquoi une politique publique de la donnée
 
-La France s’est placée à l’avant-garde européenne de la politique de la donnée et des codes sources depuis 2013 avec la création d'une plateforme de données ouverte puis un cadre juridique favorisant l'ouverture des données, mais l’avance acquise est fragile. La politique publique de la donnée c'est l'ensemble des règles et principes d'ouverture des données publiques (open data), mais aussi de partage et d'accès sécurisé aux données sensibles. 
+La France s’est placée à l’avant-garde européenne de la politique de la donnée et des codes sources depuis 2013 : 
+- création d'une plateforme de données ouvertes
+- création d'Etalab, un département et des ressources dédiées à la circulation et la connaissance des données publiques
+- création du poste de Chief Data Officer de l'Etat (2014)
+- création d'une licence de réutilisation des données ouvertes
+- création d'un open source program officer (OSPO) 
+
+> La politique publique de la donnée c'est l'ensemble des règles et principes d'ouverture des données publiques (open data), mais aussi de partage et d'accès sécurisé aux données sensibles. 
 Elle est précisée dans la [**circulaire du Premier ministre** n° 6264/SG du 27 avril 2021](https://www.legifrance.gouv.fr/circulaire/id/45162) relative à la politique publique de la donnée, des algorithmes et des codes sources.
 
 ## Synthèse de la circulaire
@@ -47,15 +54,19 @@ L’AGD anime également le réseau des administrateurs ministériels des donné
 - La [liste des AMDAC est disponible sur Data.gouv](https://www.data.gouv.fr/datasets/liste-des-administrateurs-ministeriels-des-donnees-des-algorithmes-et-des-codes-sources)
 :::
 
-## Tableaux
+# Le rôle des AMDAC
 
-| Fonctionnalité | Supportée |
-|----------------|-----------|
-| Front-matter YAML | Oui |
-| Sections | Oui |
-| Callouts | Oui |
-| Alertes | Oui |
-| Images | Oui |
+## Le rôle et la mission des AMDAC
+
+Il ou elle travaille en lien avec l'ensemble des services, pôles et du délégué à la protection des données. 
+Fiche de poste type : 
+
+1.	Propose et coordonne la **conception** ainsi que la **mise en œuvre de la stratégie** relative aux données, aux algorithmes et aux codes sources dans le but d'assurer la meilleure circulation et exploitation des données en interne et externe
+2.	Appuie les démarches d'identification, de structuration, de valorisation et d'ouverture des données ainsi que des codes sources et, à cette fin, **conçoit et diffuse le cadre méthodologique et la procédure d'inventaire et de catalogue des données**. 
+3.	Favorise le développement de l'intelligence artificielle et des modèles prédictifs et veille à sa prise en compte dans le cadre de la stratégie de l'administration relative aux données, aux algorithmes et aux codes sources ;
+4.	Crée et **anime la communauté data de l'administration**, constituée de **référents au sein des services métiers ou techniques**, pour diffuser la mise en œuvre de la stratégie data, **favoriser les expérimentations** et développer le partage d'expérience en ces domaines ;
+5.	Participe aux travaux du réseau interministériel des administrateurs ministériels de données et articule la stratégie de l'administration susmentionnée avec les initiatives locales, nationales et européennes dans ce domaine.
+
 
 # Navigation
 
