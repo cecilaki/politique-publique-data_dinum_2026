@@ -1,10 +1,10 @@
 ---
-title: "DSFR Slides Template"
-subtitle: "Créez vos présentations en Markdown"
-author: "Test author"
-role: "Votre Poste @ Organisation"
+title: "La politique publique de la donnée en France"
+subtitle: "Principes généraux"
+author: "Cécile Le Guen"
+role: "Administratrice Générale Déléguée des Données @ DINUM"
 organization: "Direction interministérielle du numérique"
-date: "20 février 2026"
+date: "9 février 2026"
 ---
 
 # La politique publique de la donnée en France
