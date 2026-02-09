@@ -9,23 +9,12 @@ date: "9 février 2026"
 
 # La politique publique de la donnée en France
 
-**Principes généraux**
-
 ---
 
-**Présentateur :** Cécile Le Guen
-**Fonction :** Administratrice Générale Déléguée des Données / DINUM
-**Événement :** Présentation réseau AMDAC
+## Pourquoi une politique publique de la donnée
 
----
-
-## Bienvenue
-
-Bienvenue dans **DSFR Slides Template**, un outil pour créer des présentations conformes au Design System de l'État.
-
-- Écrivez vos slides en **Markdown**
-- Déployez automatiquement sur **GitHub Pages**
-- Profitez du style **DSFR** sans effort
+La France s’est placée à l’avant-garde européenne de la politique de la donnée et des codes sources depuis 2013 avec la création d'une plateforme de données ouverte puis un cadre juridique favorisant l'ouverture des données, mais l’avance acquise est fragile. La politique publique de la donnée c'est l'ensemble des règles et principes d'ouverture des données publiques (open data), mais aussi de partage et d'accès sécurisé aux données sensibles. 
+Elle est précisée dans la [**circulaire du Premier ministre** n° 6264/SG du 27 avril 2021](https://www.legifrance.gouv.fr/circulaire/id/45162) relative à la politique publique de la donnée, des algorithmes et des codes sources.
 
 ## Comment ça marche ?
 
