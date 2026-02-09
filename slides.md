@@ -68,10 +68,9 @@ La circulaire du 27 avril 2021 encourage les personnes morales de droit public �
 
 L’AGD anime également le réseau des administrateurs ministériels des données, des algorithmes et des codes source” (AMDAC) et s’appuie sur ces derniers pour débloquer toute situation complexe et faciliter l’exploitation des données. Les AMDAC sont les relais de l’AGD au sein des ministères. Les AMDAC délégués sont aussi des relais de l'AGDD. 
 
-:::callout[AMDAC et AMDACS Délégués]
-* Pour tout besoin de contacter les AMDAC, vous pouvez soit me contacter, soit me mettre en copie de vos échanges
-* 👉 La liste des AMDAC est disponible sur data.gouv : [voir la liste](https://www.data.gouv.fr/datasets/liste-des-administrateurs-ministeriels-des-donnees-des-algorithmes-et-des-codes-sources)
-:::
+### AMDAC et AMDACS Délégués
+> Pour tout besoin de contacter les AMDAC et délégués, vous pouvez soit me contacter, soit me mettre en copie de vos échanges
+> 👉 La liste des AMDAC est disponible sur data.gouv : [voir la liste](https://www.data.gouv.fr/datasets/liste-des-administrateurs-ministeriels-des-donnees-des-algorithmes-et-des-codes-sources)
 
 # Le rôle des AMDAC
 
