@@ -16,14 +16,15 @@ date: "9 février 2026"
 La France s’est placée à l’avant-garde européenne de la politique de la donnée et des codes sources depuis 2013 avec la création d'une plateforme de données ouverte puis un cadre juridique favorisant l'ouverture des données, mais l’avance acquise est fragile. La politique publique de la donnée c'est l'ensemble des règles et principes d'ouverture des données publiques (open data), mais aussi de partage et d'accès sécurisé aux données sensibles. 
 Elle est précisée dans la [**circulaire du Premier ministre** n° 6264/SG du 27 avril 2021](https://www.legifrance.gouv.fr/circulaire/id/45162) relative à la politique publique de la donnée, des algorithmes et des codes sources.
 
-## Comment ça marche ?
+## Synthèse de la circulaire
 
-1. Éditez le fichier `slides.md`
-2. Utilisez la syntaxe Markdown standard
-3. Push sur GitHub
-4. Votre présentation est en ligne !
+1. Rechercher en permanence la **meilleure circulation de la donnée** dans des formats ouverts et exploitables par les tiers ;
+2. Mobiliser les dispositifs techniques comme l'accès sécurisé aux données, la pseudonymisation, l'anonymisation ou l'agrégation ;
+3. S'assurer que les données ouvertes sont **référencées** sur le portail interministériel data.gouv.fr ;
+4. Animez des **écosystèmes de réutilisateurs des données et de contributeurs** afin d'identifier les jeux de données à forte valeur ajoutée et d'alimenter leur partage
+5. **Nommer un administrateur ministériel des données dans chaque ministère**, chargé d'élaborer la stratégie dans ce domaine, de coordonner les parties prenantes et d'être le point de contact des utilisateurs des données
 
-> Astuce : consultez FORMAT.md pour la syntaxe complète.
+> A date, ceci est la seule circulaire concernant un politique publique de la donnée interministérielle
 
 # Fonctionnalités
 
