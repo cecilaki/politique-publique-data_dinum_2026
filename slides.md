@@ -1,13 +1,23 @@
 ---
 title: "DSFR Slides Template"
 subtitle: "Créez vos présentations en Markdown"
-author: "Votre Nom"
+author: "Test author"
 role: "Votre Poste @ Organisation"
 organization: "Direction interministérielle du numérique"
-date: "20 Janvier 2026"
+date: "20 février 2026"
 ---
 
-# Introduction
+# La politique publique de la donnée en France
+
+**Principes généraux**
+
+---
+
+**Présentateur :** Cécile Le Guen
+**Fonction :** Administratrice Générale Déléguée des Données / DINUM
+**Événement :** Présentation réseau AMDAC
+
+---
 
 ## Bienvenue
 
